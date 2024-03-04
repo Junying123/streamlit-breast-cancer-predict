@@ -1,0 +1,23 @@
+.st-emotion-cache-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #6d62aa;
+
+} 
+
+.highlight_green{
+    color: rgb(72, 235, 72);
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.highlight_red{
+    color: rgb(231, 13, 13);
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+    font-weight: bold;
+    font-size: larger;
+
+}
