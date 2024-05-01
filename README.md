@@ -38,5 +38,5 @@ streamlit run app/app.py
 - **Data Folder:** [Google Drive Link](https://drive.google.com/drive/folders/1q4l6wViLihAur3VpRy2ncCTywvpdgP4q?usp=drive_link)
 - **Breast Cancer Predictor App:** [Streamlit App](https://app-breast-cancer-predict-4wbjzypvee5hmlcauy6paj.streamlit.app/)
 
-![image](https://github.com/Junying123/streamlit-breast-cancer-predict/assets/92530725/35f4289e-928a-47fa-8a8d-d61433161cd2)
+[image](https://github.com/Junying123/streamlit-breast-cancer-predict/assets/92530725/35f4289e-928a-47fa-8a8d-d61433161cd2)
 
