@@ -21,7 +21,7 @@ The Breast Cancer Predictor is a machine learning project developed to assist in
 To run this project locally, follow these steps:
 ```markdown
 # Clone the repository
-git clone https://github.com/yourusername/streamlit-breast-cancer-predict
+git clone https://github.com/Junying123/streamlit-breast-cancer-predict
 
 # Navigate to the project directory
 cd streamlit-breast-cancer-predict
