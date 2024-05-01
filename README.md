@@ -35,5 +35,5 @@ To start the Streamlit web app, run the following command from the project direc
 streamlit run app/app.py
 ```
 ### Additional Links
-- **Data Folder:** [Google Drive Link]((https://drive.google.com/drive/folders/1q4l6wViLihAur3VpRy2ncCTywvpdgP4q?usp=drive_link))
-- **Breast Cancer Predictor App:** [Streamlit App]((https://app-breast-cancer-predict-4wbjzypvee5hmlcauy6paj.streamlit.app/))
+- **Data Folder:** [Google Drive Link](https://drive.google.com/drive/folders/1q4l6wViLihAur3VpRy2ncCTywvpdgP4q?usp=drive_link)
+- **Breast Cancer Predictor App:** [Streamlit App](https://app-breast-cancer-predict-4wbjzypvee5hmlcauy6paj.streamlit.app/)
