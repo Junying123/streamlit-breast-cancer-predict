@@ -1,5 +1,4 @@
-### Project Title
-**Breast Cancer Predictor**
+# Breast Cancer Predictor
 
 ### Project Description
 The Breast Cancer Predictor is a machine learning project developed to assist in the diagnosis of breast cancer by analyzing clinical features of breast tissue. This application uses a dataset of breast cancer cases to train a classification model that predicts whether a tumor is benign or malignant based on input features. The project utilizes Streamlit to create an interactive web app, allowing users to input their data and receive predictions instantly.
@@ -29,3 +28,12 @@ cd streamlit-breast-cancer-predict
 
 # Install required packages
 pip install -r requirements.txt
+```
+### Usage
+To start the Streamlit web app, run the following command from the project directory:
+```markdown
+streamlit run app/app.py
+```
+### Additional Links
+- **Data Folder:** [Google Drive Link]((https://drive.google.com/drive/folders/1q4l6wViLihAur3VpRy2ncCTywvpdgP4q?usp=drive_link))
+- **Breast Cancer Predictor App:** [Streamlit App]((https://app-breast-cancer-predict-4wbjzypvee5hmlcauy6paj.streamlit.app/))
