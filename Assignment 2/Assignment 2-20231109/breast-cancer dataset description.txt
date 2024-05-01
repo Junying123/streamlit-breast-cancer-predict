@@ -1,0 +1,29 @@
+id
+Unique ID
+
+diagnosis
+Target: M - Malignant B - Benign
+
+radius_mean
+Radius of Lobes
+
+texture_mean
+Mean of Surface Texture
+
+perimeter_mean
+Outer Perimeter of Lobes
+
+area_mean
+Mean Area of Lobes
+
+smoothness_mean
+Mean of Smoothness Levels
+
+compactness_mean
+Mean of Compactness
+
+concavity_mean
+Mean of Concavity
+
+concave points_mean
+Mean of Cocave Points
